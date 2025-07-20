@@ -2,7 +2,7 @@
 
 # Hi, I'm Vaibhav! 👋
 
-I'm a passionate developer interested in web and app development.
+
 
 ---
 
